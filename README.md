@@ -1,6 +1,7 @@
 
 <h1 align="center">I'm Chamika Deshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://user-images.githubusercontent.com/55059232/97798712-889dc580-1c4e-11eb-93c3-42a57d717799.gif" />
+
+<img align="center" width=200px height=200px alt="side_sticker" src="https://user-images.githubusercontent.com/55059232/97798712-889dc580-1c4e-11eb-93c3-42a57d717799.gif" />
 
 
 <hr/>
@@ -49,9 +50,9 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChamikaD97&bg_color=000000&color=7fff00&line=4fff67&point=ffffff&area=true&hide_border=false)  
 <hr/>
-<h2 aligh="center">Visitor Count</h2>
+<h3 align="center">Visitor Count></h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{ChamikaD97}/count.svg"></p>
-
+<hr/>
 
 ### Let's Connect :coffee:
 <p align="center">
