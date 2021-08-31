@@ -53,6 +53,10 @@
 
 <hr/>
 
+<!-- ## &#x1f4c8; GitHub Stats -->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats**
+
+<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkmSasanga&show_icons=true&locale=en&layout=compact&theme=radical" alt="lkmSasanga" /></p> -->
 
 
 <!---
