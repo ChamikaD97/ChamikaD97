@@ -52,8 +52,8 @@
 	<a href="https://www.linkedin.com/in/chamika-jayasingha-a72597197/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/chamika.deshan.7"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	</p>
-
 <hr/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChamikaD97&bg_color=000000&color=7fff00&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 
 <!---
