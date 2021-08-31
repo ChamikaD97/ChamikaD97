@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi , I'm Chamika Deshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  ![004b173f6e3d6843df10114e087f30a8](https://user-images.githubusercontent.com/55059232/97798712-889dc580-1c4e-11eb-93c3-42a57d717799.gif) 
 
 </p>
 <hr/>
