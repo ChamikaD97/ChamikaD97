@@ -3,6 +3,8 @@
 <p align="center">
 
 </p>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <hr/>
 
 <p align="center" width="150px">I am a third year Undergraduate at University of Colombo, SriLanka.And a passionate self-learner,<br>who is obsessed with Data Science and always looking to find patterns of which are hidden in the data</p>
@@ -52,11 +54,6 @@
 	</p>
 
 <hr/>
-
-<!-- ## &#x1f4c8; GitHub Stats -->
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats**
-
-<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkmSasanga&show_icons=true&locale=en&layout=compact&theme=radical" alt="lkmSasanga" /></p> -->
 
 
 <!---
