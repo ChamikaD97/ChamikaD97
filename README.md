@@ -7,7 +7,7 @@
 
 <hr/>
 
-<p align="center" width="150px">I am a third year Undergraduate at University of Colombo, SriLanka.And a passionate self-learner,<br>who is obsessed with Data Science and always looking to find patterns of which are hidden in the data</p>
+<p align="center" width="150px">I am a Third year Undergraduate at University of Colombo School of Computing.And a passionate self-learner</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamikaD97&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ChamikaD97&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
@@ -52,6 +52,10 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChamikaD97&bg_color=000000&color=7fff00&line=4fff67&point=ffffff&area=true&hide_border=false)  
 <hr/>
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{ChamikaD97}/count.svg)
+<hr/>
+
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/ChamikaD97"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
