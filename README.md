@@ -12,8 +12,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamikaD97&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ChamikaD97&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=ChamikaD97&theme=chartreuse-dark"></p>
-
-
+<hr/>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -46,7 +45,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)&nbsp;
 
-<hr/><!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamikaD97&show_icons=true&locale=en&layout=compact&theme=radical" alt="ChamikaD97" /></p> --> 
+<hr/>
+<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamikaD97&show_icons=true&locale=en&layout=compact&theme=radical" alt="ChamikaD97" /></p> --> 
  <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChamikaD97&bg_color=000000&color=7fff00&line=4fff67&point=ffffff&area=true&hide_border=true)  
@@ -57,7 +57,7 @@
 	<a href="https://www.linkedin.com/in/chamika-jayasingha-a72597197/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/chamika.deshan.7"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	</p>
-
+<hr/>
 <!---
 ChamikaD97/ChamikaD97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
