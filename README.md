@@ -1,12 +1,11 @@
 
-<h1 align="left">I'm Chamika Deshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">I'm Chamika Deshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://user-images.githubusercontent.com/55059232/97798712-889dc580-1c4e-11eb-93c3-42a57d717799.gif" />
 
 
 <hr/>
 
 <p align="center" width="150px">I am a Third year Undergraduate at University of Colombo School of Computing.And a passionate self-learner</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{ChamikaD97}/count.svg"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamikaD97&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ChamikaD97&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=ChamikaD97&theme=chartreuse-dark"></p>
@@ -50,6 +49,8 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChamikaD97&bg_color=000000&color=7fff00&line=4fff67&point=ffffff&area=true&hide_border=false)  
 <hr/>
+<h2 aligh="center">Visitor Count</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{ChamikaD97}/count.svg"></p>
 
 
 ### Let's Connect :coffee:
