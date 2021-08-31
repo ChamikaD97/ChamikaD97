@@ -52,11 +52,12 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChamikaD97&bg_color=000000&color=7fff00&line=4fff67&point=ffffff&area=true&hide_border=false)  
 <hr/>
-
+<p align="center">
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{ChamikaD97}/count.svg)
+<br>
+	![VisitorCount](https://profile-counter.glitch.me/{ChamikaD97}/count.svg)
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
-
+</p>
 <hr>
 
 ### Let's Connect :coffee:
