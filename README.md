@@ -52,14 +52,6 @@
 	</p>
 
 <hr/>
-<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamikaD97&show_icons=true&locale=en&layout=compact&theme=radical" alt="ChamikaD97" /></p> -->
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamikaD97&theme=radical" alt="ChamikaD97" /></p>
- 
- <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChamikaD97&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 
 
