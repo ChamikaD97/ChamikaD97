@@ -4,7 +4,6 @@
 <img align="center" width=200px height=200px alt="side_sticker" src="https://user-images.githubusercontent.com/55059232/97798712-889dc580-1c4e-11eb-93c3-42a57d717799.gif"/>
 </p>
 <h1 align="center">I'm Chamika Deshan</h1>
-
 <hr/>
 
 <p align="center" width="150px">I am a Third year Undergraduate at University of Colombo School of Computing.And a passionate self-learner</p>
