@@ -9,6 +9,7 @@
 <p align="center" width="150px">I am a Third year Undergraduate at University of Colombo School of Computing.And a passionate self-learner</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamikaD97&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=ChamikaD97&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=ChamikaD97&theme=chartreuse-dark"></p>
 
 <hr/>
